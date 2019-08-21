@@ -6,4 +6,6 @@ A biblioteca utilizada neste exemplo é a BeautifulSoup que tem como grandes car
 
 # Antes de começar...
 A biblioteca BeautifulSoup não é nativa da instalação do Python, logo, necessita instalação a parte:
-Para instalá-la é necessário rodar o comando: pip install Beautifulsoup4
+Para instalá-la é necessário rodar o comando: 
+
+pip install Beautifulsoup4
